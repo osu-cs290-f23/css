@@ -1,0 +1,46 @@
+/* This is a comment */
+p {
+    color: salmon;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.secondary-title {
+    font-size: 40px;
+    color: dimgray;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#special-div {
+    border: 5px dashed forestgreen;
+    background-color: lightpink;
+}
+
+#title {
+    background-color: lightblue;
+}
+
+.bold.italics {
+    text-decoration: underline;
+}
+
+#special-div p {
+    font-family: monospace;
+}
+
+#special-div > p {
+    color: mediumorchid;
+}
