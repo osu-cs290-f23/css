@@ -4,5 +4,16 @@ html {
     /* font-family: serif; */
     /* font-family: monospace; */
     /* font-family: cursive; */
-    font-family: fantasy;
+    /* font-family: fantasy; */
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    /* color: rgb(255, 128, 128); */
+    color: #5b38e7;
+    /* color: rgba(255, 128, 128, 0.25); */
+    font-size: 18px;
+    /* font-size: 10%; */
+    /* font-size: 0.5em; */
+    /* font-size: 1rem; */
+    /* font-size: 10vw; */
 }
